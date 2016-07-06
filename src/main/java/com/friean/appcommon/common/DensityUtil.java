@@ -6,7 +6,7 @@ import android.support.annotation.NonNull;
 /**
  * dp/sp 和 px 转换工具类
  * <p/>
- * Create by feifei on 2016/4/19 15:52
+ * Create by friean on 2016/4/19 15:52
  */
 public final class DensityUtil {
 
